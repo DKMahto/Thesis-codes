@@ -7,7 +7,7 @@ limited advantages as MDES. It may become cost-effective when energy capacity co
 of solar, the demand for MDES deployment is limited due to low round-trip efficiency (< 80%) of MDES technologies compared to batteries. However, VRFB, as an MDES option with a lower 50 €/kWh energy cost, has the potential to compete with batteries. On the other hand, regions dominated by onshore wind generation require more MDES deployment. Given circumstances of low energy capacity costs of ≤ 5€/kWh and high round-trip efficiencies > 60%, MDES could compete with hydrogen in meeting demand peaks. Additionally, MDES always operates on daily, weekly or synoptic patterns and serves as an intermediary between short- and long-term energy storage to realize a least-cost electricity system.
 
 ## This GitHub includes:
-- PyPSA-Eur model and its required code and data modifications to reproduce the results for thesis
+- PyPSA-Eur model and its required code and data adjustments to reproduce the results for thesis
 - Jupyter notebook with plotting and analysis scripts
 
 
